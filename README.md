@@ -1,3 +1,8 @@
+Clone the repo using below command
+git clone https://github.com/ssarathieee/express-server.git
+
+Navigate to the cloned repo
+
 Install the following dependcies with below commands
 
 - npm install express
